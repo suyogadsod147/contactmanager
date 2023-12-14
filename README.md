@@ -1,6 +1,9 @@
 ﻿# contactmanager
- [hiii](https://github.com/nodejs)
-# Copy Example
+this project is about [MongoDb](https://www.mongodb.com/), [Node.js](https://github.com/nodejs) and [express](https://github.com/expressjs)
+ 
+#Getting Started 
+---
 
 ```bash
-npm install my-package
+cd contactmanger
+npm install
